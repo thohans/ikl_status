@@ -3,15 +3,13 @@ owner: thohans # Your GitHub organization or username, where this repository liv
 repo: ikl_status # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-#  - name: Test Broken Site
-#    url: https://thissitedoesnotexist.koj.co
-  - name: Ateas repo
+  - name: bunnpris.no
+    url: https://bunnpris.no
+  - name: nettbutikk.bunnpris.no
+    url: https://nettbutikk.bunnpris.no
+  - name: Citrix-portal
+    url: https://$IKL_SECRET_CITRIX_PORTAL
+  - name: Secret status location
     url: https://$IKL_SECRET_DOMAIN/$IKL_SECRET_PATH/index.html
   - name: Status hosting partner
     url: https://$IKL_SECRET_DOMAIN
