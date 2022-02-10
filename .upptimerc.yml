@@ -13,6 +13,8 @@ sites:
 #    url: https://thissitedoesnotexist.koj.co
   - name: Ateas repo
     url: https://$IKL_SECRET_DOMAIN/$IKL_SECRET_PATH/index.html
+  - name: Status hosting partner
+    url: https://$IKL_SECRET_DOMAIN
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
