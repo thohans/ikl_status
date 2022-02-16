@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 808,
-    "timeDay": 755,
-    "timeWeek": 808,
-    "timeMonth": 808,
-    "timeYear": 808,
+    "time": 837,
+    "timeDay": 1012,
+    "timeWeek": 837,
+    "timeMonth": 837,
+    "timeYear": 837,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/nettbutikk.bunnpris.no",
     "slug": "nettbutikk-bunnpris-no",
     "status": "up",
-    "uptime": "99.93%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 823,
-    "timeDay": 720,
-    "timeWeek": 823,
-    "timeMonth": 823,
-    "timeYear": 823,
-    "dailyMinutesDown": {
-      "2022-02-15": 5
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 844,
+    "timeDay": 829,
+    "timeWeek": 844,
+    "timeMonth": 844,
+    "timeYear": 844,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Citrix-portal",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1222,
-    "timeDay": 1117,
-    "timeWeek": 1222,
-    "timeMonth": 1222,
-    "timeYear": 1222,
+    "time": 1288,
+    "timeDay": 1680,
+    "timeWeek": 1288,
+    "timeMonth": 1288,
+    "timeYear": 1288,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 650,
-    "timeDay": 550,
-    "timeWeek": 650,
-    "timeMonth": 650,
-    "timeYear": 650,
+    "time": 690,
+    "timeDay": 929,
+    "timeWeek": 690,
+    "timeMonth": 690,
+    "timeYear": 690,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 936,
-    "timeDay": 947,
-    "timeWeek": 936,
-    "timeMonth": 936,
-    "timeYear": 936,
+    "time": 958,
+    "timeDay": 1112,
+    "timeWeek": 958,
+    "timeMonth": 958,
+    "timeYear": 958,
     "dailyMinutesDown": {}
   }
 ]
