@@ -58,10 +58,10 @@
     "url": "https://$IKL_SECRET_DOMAIN/$IKL_SECRET_PATH/index.html",
     "icon": "https://favicons.githubusercontent.com/",
     "slug": "secret-status-location",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 635,
@@ -69,14 +69,16 @@
     "timeWeek": 596,
     "timeMonth": 635,
     "timeYear": 635,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-09": 2
+    }
   },
   {
     "name": "Status hosting partner",
     "url": "https://$IKL_SECRET_DOMAIN",
     "icon": "https://favicons.githubusercontent.com/",
     "slug": "status-hosting-partner",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -87,6 +89,8 @@
     "timeWeek": 799,
     "timeMonth": 913,
     "timeYear": 913,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-09": 0
+    }
   }
 ]
