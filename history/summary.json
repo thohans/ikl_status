@@ -22,10 +22,10 @@
     "url": "https://nettbutikk.bunnpris.no",
     "icon": "https://favicons.githubusercontent.com/nettbutikk.bunnpris.no",
     "slug": "nettbutikk-bunnpris-no",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 884,
@@ -33,16 +33,18 @@
     "timeWeek": 907,
     "timeMonth": 944,
     "timeYear": 884,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-06": 1
+    }
   },
   {
     "name": "Citrix-portal",
     "url": "https://$IKL_SECRET_CITRIX_PORTAL",
     "icon": "https://favicons.githubusercontent.com/",
     "slug": "citrix-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +53,9 @@
     "timeWeek": 1278,
     "timeMonth": 1313,
     "timeYear": 1258,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-06": 0
+    }
   },
   {
     "name": "Secret status location",
@@ -59,11 +63,11 @@
     "icon": "https://favicons.githubusercontent.com/",
     "slug": "secret-status-location",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 675,
     "timeDay": 559,
     "timeWeek": 658,
