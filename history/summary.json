@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 832,
-    "timeDay": 819,
-    "timeWeek": 843,
-    "timeMonth": 862,
-    "timeYear": 832,
+    "time": 830,
+    "timeDay": 726,
+    "timeWeek": 838,
+    "timeMonth": 861,
+    "timeYear": 830,
     "dailyMinutesDown": {}
   },
   {
@@ -24,14 +24,14 @@
     "slug": "nettbutikk-bunnpris-no",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "97.35%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.62%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.95%",
     "time": 888,
-    "timeDay": 1000,
-    "timeWeek": 933,
-    "timeMonth": 956,
+    "timeDay": 883,
+    "timeWeek": 936,
+    "timeMonth": 959,
     "timeYear": 888,
     "dailyMinutesDown": {
       "2022-04-06": 38
@@ -44,15 +44,15 @@
     "slug": "citrix-portal",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "97.38%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.63%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.95%",
-    "time": 1260,
-    "timeDay": 1304,
-    "timeWeek": 1294,
-    "timeMonth": 1322,
-    "timeYear": 1260,
+    "time": 1254,
+    "timeDay": 929,
+    "timeWeek": 1261,
+    "timeMonth": 1315,
+    "timeYear": 1254,
     "dailyMinutesDown": {
       "2022-04-06": 38
     }
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
-    "time": 673,
-    "timeDay": 605,
-    "timeWeek": 656,
+    "time": 672,
+    "timeDay": 586,
+    "timeWeek": 653,
     "timeMonth": 705,
-    "timeYear": 673,
+    "timeYear": 672,
     "dailyMinutesDown": {
       "2022-03-09": 28
     }
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
-    "time": 956,
-    "timeDay": 806,
-    "timeWeek": 939,
-    "timeMonth": 991,
-    "timeYear": 956,
+    "time": 951,
+    "timeDay": 682,
+    "timeWeek": 900,
+    "timeMonth": 985,
+    "timeYear": 951,
     "dailyMinutesDown": {
       "2022-03-09": 26
     }
