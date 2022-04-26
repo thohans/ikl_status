@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 837,
-    "timeDay": 746,
-    "timeWeek": 833,
-    "timeMonth": 835,
-    "timeYear": 837,
+    "time": 838,
+    "timeDay": 935,
+    "timeWeek": 862,
+    "timeMonth": 830,
+    "timeYear": 838,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.96%",
-    "time": 920,
-    "timeDay": 867,
-    "timeWeek": 951,
-    "timeMonth": 983,
-    "timeYear": 920,
+    "time": 921,
+    "timeDay": 1040,
+    "timeWeek": 965,
+    "timeMonth": 977,
+    "timeYear": 921,
     "dailyMinutesDown": {
       "2022-04-06": 38
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.96%",
-    "time": 1276,
-    "timeDay": 1180,
-    "timeWeek": 1319,
-    "timeMonth": 1304,
-    "timeYear": 1276,
+    "time": 1278,
+    "timeDay": 1464,
+    "timeWeek": 1341,
+    "timeMonth": 1291,
+    "timeYear": 1278,
     "dailyMinutesDown": {
       "2022-04-06": 38
     }
@@ -64,17 +64,16 @@
     "slug": "secret-status-location",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 677,
-    "timeDay": 659,
-    "timeWeek": 681,
-    "timeMonth": 675,
-    "timeYear": 677,
+    "time": 679,
+    "timeDay": 735,
+    "timeWeek": 705,
+    "timeMonth": 674,
+    "timeYear": 679,
     "dailyMinutesDown": {
-      "2022-04-25": 5,
       "2022-03-09": 28
     }
   },
@@ -90,9 +89,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 962,
-    "timeDay": 894,
+    "timeDay": 926,
     "timeWeek": 974,
-    "timeMonth": 963,
+    "timeMonth": 953,
     "timeYear": 962,
     "dailyMinutesDown": {
       "2022-03-09": 26
