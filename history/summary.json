@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 835,
-    "timeDay": 622,
-    "timeWeek": 794,
-    "timeMonth": 833,
-    "timeYear": 835,
+    "time": 832,
+    "timeDay": 616,
+    "timeWeek": 749,
+    "timeMonth": 828,
+    "timeYear": 832,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.97%",
-    "time": 923,
-    "timeDay": 813,
-    "timeWeek": 938,
-    "timeMonth": 988,
-    "timeYear": 923,
+    "time": 922,
+    "timeDay": 824,
+    "timeWeek": 894,
+    "timeMonth": 986,
+    "timeYear": 922,
     "dailyMinutesDown": {
       "2022-04-06": 38
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.97%",
-    "time": 1279,
-    "timeDay": 1177,
-    "timeWeek": 1280,
+    "time": 1278,
+    "timeDay": 1187,
+    "timeWeek": 1238,
     "timeMonth": 1310,
-    "timeYear": 1279,
+    "timeYear": 1278,
     "dailyMinutesDown": {
       "2022-04-06": 38
     }
@@ -63,16 +63,16 @@
     "icon": "https://favicons.githubusercontent.com/",
     "slug": "secret-status-location",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 678,
-    "timeDay": 588,
-    "timeWeek": 684,
-    "timeMonth": 677,
-    "timeYear": 678,
+    "uptimeYear": "99.98%",
+    "time": 677,
+    "timeDay": 579,
+    "timeWeek": 664,
+    "timeMonth": 675,
+    "timeYear": 677,
     "dailyMinutesDown": {
       "2022-03-09": 28
     }
@@ -88,11 +88,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 959,
-    "timeDay": 767,
-    "timeWeek": 903,
-    "timeMonth": 957,
-    "timeYear": 959,
+    "time": 956,
+    "timeDay": 723,
+    "timeWeek": 848,
+    "timeMonth": 951,
+    "timeYear": 956,
     "dailyMinutesDown": {
       "2022-03-09": 26
     }
