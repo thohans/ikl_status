@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 796,
-    "timeDay": 569,
-    "timeWeek": 630,
-    "timeMonth": 713,
-    "timeYear": 796,
+    "time": 795,
+    "timeDay": 581,
+    "timeWeek": 605,
+    "timeMonth": 708,
+    "timeYear": 795,
     "dailyMinutesDown": {}
   },
   {
@@ -22,17 +22,17 @@
     "url": "https://nettbutikk.bunnpris.no",
     "icon": "https://favicons.githubusercontent.com/nettbutikk.bunnpris.no",
     "slug": "nettbutikk-bunnpris-no",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "98.92%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 1604,
-    "timeDay": 20442,
-    "timeWeek": 8711,
-    "timeMonth": 3193,
-    "timeYear": 1604,
+    "time": 1812,
+    "timeDay": 26979,
+    "timeWeek": 11318,
+    "timeMonth": 3912,
+    "timeYear": 1812,
     "dailyMinutesDown": {
       "2022-06-03": 15,
       "2022-04-06": 38
@@ -49,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1295,
-    "timeDay": 914,
-    "timeWeek": 1145,
-    "timeMonth": 1317,
-    "timeYear": 1295,
+    "time": 1292,
+    "timeDay": 929,
+    "timeWeek": 1105,
+    "timeMonth": 1297,
+    "timeYear": 1292,
     "dailyMinutesDown": {
       "2022-04-06": 38
     }
@@ -69,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 687,
-    "timeDay": 455,
-    "timeWeek": 666,
-    "timeMonth": 711,
-    "timeYear": 687,
+    "time": 686,
+    "timeDay": 570,
+    "timeWeek": 602,
+    "timeMonth": 698,
+    "timeYear": 686,
     "dailyMinutesDown": {
       "2022-03-09": 28
     }
@@ -89,11 +89,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 956,
-    "timeDay": 660,
-    "timeWeek": 893,
-    "timeMonth": 943,
-    "timeYear": 956,
+    "time": 955,
+    "timeDay": 881,
+    "timeWeek": 863,
+    "timeMonth": 938,
+    "timeYear": 955,
     "dailyMinutesDown": {
       "2022-03-09": 26
     }
