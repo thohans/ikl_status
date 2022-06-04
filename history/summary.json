@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 795,
-    "timeDay": 581,
-    "timeWeek": 605,
-    "timeMonth": 708,
-    "timeYear": 795,
+    "time": 793,
+    "timeDay": 616,
+    "timeWeek": 607,
+    "timeMonth": 705,
+    "timeYear": 793,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "https://nettbutikk.bunnpris.no",
     "icon": "https://favicons.githubusercontent.com/nettbutikk.bunnpris.no",
     "slug": "nettbutikk-bunnpris-no",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "96.73%",
-    "uptimeWeek": "99.38%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "97.02%",
+    "uptimeWeek": "99.42%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.94%",
     "time": 3363,
-    "timeDay": 27018,
+    "timeDay": 27027,
     "timeWeek": 18300,
     "timeMonth": 8115,
     "timeYear": 3363,
     "dailyMinutesDown": {
-      "2022-06-04": 46,
+      "2022-06-04": 42,
       "2022-06-03": 15,
       "2022-04-06": 38
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1292,
-    "timeDay": 929,
-    "timeWeek": 1105,
-    "timeMonth": 1297,
-    "timeYear": 1292,
+    "time": 1291,
+    "timeDay": 1215,
+    "timeWeek": 1119,
+    "timeMonth": 1295,
+    "timeYear": 1291,
     "dailyMinutesDown": {
       "2022-04-06": 38
     }
@@ -71,9 +71,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 686,
-    "timeDay": 570,
-    "timeWeek": 602,
-    "timeMonth": 698,
+    "timeDay": 658,
+    "timeWeek": 609,
+    "timeMonth": 696,
     "timeYear": 686,
     "dailyMinutesDown": {
       "2022-03-09": 28
@@ -91,9 +91,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 955,
-    "timeDay": 881,
-    "timeWeek": 863,
-    "timeMonth": 938,
+    "timeDay": 890,
+    "timeWeek": 867,
+    "timeMonth": 936,
     "timeYear": 955,
     "dailyMinutesDown": {
       "2022-03-09": 26
