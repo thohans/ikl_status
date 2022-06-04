@@ -22,7 +22,7 @@
     "url": "https://nettbutikk.bunnpris.no",
     "icon": "https://favicons.githubusercontent.com/nettbutikk.bunnpris.no",
     "slug": "nettbutikk-bunnpris-no",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "98.92%",
     "uptimeWeek": "99.85%",
@@ -34,6 +34,7 @@
     "timeMonth": 4536,
     "timeYear": 2016,
     "dailyMinutesDown": {
+      "2022-06-04": 0,
       "2022-06-03": 15,
       "2022-04-06": 38
     }
