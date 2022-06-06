@@ -1,7 +1,7 @@
 url: https://nettbutikk.bunnpris.no
-status: up
-code: 200
-responseTime: 27018
-lastUpdated: 2022-06-05T23:21:21.098Z
+status: down
+code: 500
+responseTime: 21628
+lastUpdated: 2022-06-06T07:10:37.145Z
 startTime: Thu Feb 10 2022 17:48:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
