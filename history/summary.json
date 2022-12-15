@@ -4,11 +4,11 @@
     "url": "https://bunnpris.no",
     "icon": "https://icons.duckduckgo.com/ip3/bunnpris.no.ico",
     "slug": "bunnpris-no",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 895,
     "timeDay": 1250,
@@ -16,7 +16,7 @@
     "timeMonth": 1405,
     "timeYear": 895,
     "dailyMinutesDown": {
-      "2022-12-15": 7
+      "2022-12-15": 0
     }
   },
   {
