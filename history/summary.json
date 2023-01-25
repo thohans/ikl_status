@@ -4,19 +4,19 @@
     "url": "https://bunnpris.no",
     "icon": "https://icons.duckduckgo.com/ip3/bunnpris.no.ico",
     "slug": "bunnpris-no",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 955,
-    "timeDay": 1108,
-    "timeWeek": 1360,
-    "timeMonth": 1388,
+    "timeDay": 1050,
+    "timeWeek": 1312,
+    "timeMonth": 1374,
     "timeYear": 955,
     "dailyMinutesDown": {
-      "2023-01-25": 6
+      "2023-01-25": 10
     }
   },
   {
@@ -26,9 +26,9 @@
     "slug": "nettbutikk-bunnpris-no",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.63%",
     "time": 2580,
     "timeDay": 854,
@@ -36,7 +36,6 @@
     "timeMonth": 1151,
     "timeYear": 2580,
     "dailyMinutesDown": {
-      "2023-01-25": 5,
       "2022-11-01": 36,
       "2022-06-21": 35,
       "2022-06-07": 660,
@@ -54,9 +53,9 @@
     "slug": "citrix-portal",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.68%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1260,
     "timeDay": 4695,
@@ -64,7 +63,6 @@
     "timeMonth": 1395,
     "timeYear": 1260,
     "dailyMinutesDown": {
-      "2023-01-25": 5,
       "2022-04-06": 38
     }
   },
@@ -75,9 +73,9 @@
     "slug": "secret-status-location",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 670,
     "timeDay": 576,
@@ -85,7 +83,6 @@
     "timeMonth": 689,
     "timeYear": 670,
     "dailyMinutesDown": {
-      "2023-01-25": 4,
       "2022-06-20": 37,
       "2022-03-09": 28
     }
@@ -97,9 +94,9 @@
     "slug": "status-hosting-partner",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 924,
     "timeDay": 617,
@@ -107,7 +104,6 @@
     "timeMonth": 739,
     "timeYear": 924,
     "dailyMinutesDown": {
-      "2023-01-25": 4,
       "2022-06-20": 37,
       "2022-03-09": 26
     }
