@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1043,
-    "timeDay": 1246,
-    "timeWeek": 1447,
-    "timeMonth": 1543,
-    "timeYear": 1074,
+    "time": 1044,
+    "timeDay": 1324,
+    "timeWeek": 1424,
+    "timeMonth": 1535,
+    "timeYear": 1075,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.65%",
-    "time": 2354,
-    "timeDay": 989,
-    "timeWeek": 1007,
-    "timeMonth": 1180,
-    "timeYear": 2560,
+    "time": 2353,
+    "timeDay": 1825,
+    "timeWeek": 1081,
+    "timeMonth": 1201,
+    "timeYear": 2562,
     "dailyMinutesDown": {
       "2022-11-01": 36,
       "2022-06-21": 35,
@@ -40,8 +40,7 @@
       "2022-06-06": 1009,
       "2022-06-05": 26,
       "2022-06-04": 42,
-      "2022-06-03": 15,
-      "2022-04-06": 38
+      "2022-06-03": 15
     }
   },
   {
@@ -56,13 +55,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1260,
-    "timeDay": 956,
-    "timeWeek": 1127,
-    "timeMonth": 1248,
+    "timeDay": 1091,
+    "timeWeek": 1113,
+    "timeMonth": 1235,
     "timeYear": 1260,
-    "dailyMinutesDown": {
-      "2022-04-06": 38
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Secret status location",
@@ -76,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 766,
-    "timeDay": 470,
-    "timeWeek": 2833,
-    "timeMonth": 1333,
+    "timeDay": 538,
+    "timeWeek": 2824,
+    "timeMonth": 1327,
     "timeYear": 779,
     "dailyMinutesDown": {
       "2023-01-30": 16,
@@ -96,11 +93,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 990,
-    "timeDay": 469,
-    "timeWeek": 2821,
-    "timeMonth": 1370,
-    "timeYear": 995,
+    "time": 989,
+    "timeDay": 465,
+    "timeWeek": 2794,
+    "timeMonth": 1351,
+    "timeYear": 994,
     "dailyMinutesDown": {
       "2023-01-30": 15,
       "2022-06-20": 37
