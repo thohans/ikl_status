@@ -60,7 +60,7 @@
     "timeMonth": 0,
     "timeYear": 1242,
     "dailyMinutesDown": {
-      "2023-05-20": 795,
+      "2023-05-20": 803,
       "2023-05-19": 1440,
       "2023-05-18": 1440,
       "2023-05-17": 1440,
@@ -105,18 +105,19 @@
     "url": "https://$IKL_SECRET_DOMAIN/$IKL_SECRET_PATH/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "secret-status-location",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 835,
-    "timeDay": 683,
-    "timeWeek": 651,
-    "timeMonth": 653,
-    "timeYear": 874,
+    "time": 876,
+    "timeDay": 10637,
+    "timeWeek": 3143,
+    "timeMonth": 1297,
+    "timeYear": 926,
     "dailyMinutesDown": {
+      "2023-05-20": 1,
       "2023-01-30": 16,
       "2022-06-20": 37
     }
@@ -128,9 +129,9 @@
     "slug": "status-hosting-partner",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 1072,
     "timeDay": 10310,
@@ -138,7 +139,7 @@
     "timeMonth": 1755,
     "timeYear": 1100,
     "dailyMinutesDown": {
-      "2023-05-20": 0,
+      "2023-05-20": 9,
       "2023-01-30": 15,
       "2022-06-20": 37
     }
