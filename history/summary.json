@@ -4,9 +4,9 @@
     "url": "https://bunnpris.no",
     "icon": "https://icons.duckduckgo.com/ip3/bunnpris.no.ico",
     "slug": "bunnpris-no",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1352,
     "timeMonth": 1335,
     "timeYear": 1160,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-29": 0
+    }
   },
   {
     "name": "nettbutikk.bunnpris.no",
@@ -49,18 +51,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "citrix-portal",
     "status": "down",
-    "uptime": "90.33%",
+    "uptime": "90.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "87.49%",
+    "uptimeYear": "87.46%",
     "time": 1258,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1242,
     "dailyMinutesDown": {
-      "2023-05-29": 66,
+      "2023-05-29": 215,
       "2023-05-28": 1440,
       "2023-05-27": 1440,
       "2023-05-26": 1440,
