@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "citrix-portal",
     "status": "down",
-    "uptime": "86.13%",
+    "uptime": "86.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "81.19%",
+    "uptimeYear": "81.13%",
     "time": 1258,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1246,
     "dailyMinutesDown": {
-      "2023-06-21": 71,
+      "2023-06-21": 387,
       "2023-06-20": 1440,
       "2023-06-19": 1440,
       "2023-06-18": 1440,
@@ -131,9 +131,9 @@
     "url": "https://$IKL_SECRET_DOMAIN/$IKL_SECRET_PATH/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "secret-status-location",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -143,6 +143,7 @@
     "timeMonth": 605,
     "timeYear": 924,
     "dailyMinutesDown": {
+      "2023-06-21": 1,
       "2023-05-20": 20,
       "2023-01-30": 16
     }
@@ -152,9 +153,9 @@
     "url": "https://$IKL_SECRET_DOMAIN",
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "status-hosting-partner",
-    "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -164,6 +165,7 @@
     "timeMonth": 498,
     "timeYear": 1066,
     "dailyMinutesDown": {
+      "2023-06-21": 0,
       "2023-05-20": 29,
       "2023-01-30": 15
     }
