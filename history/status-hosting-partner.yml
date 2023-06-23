@@ -1,7 +1,7 @@
 url: https://$IKL_SECRET_DOMAIN
 status: up
 code: 200
-responseTime: 592
-lastUpdated: 2023-06-22T23:21:10.024Z
+responseTime: 445
+lastUpdated: 2023-06-23T23:19:49.679Z
 startTime: Thu Feb 10 2022 17:37:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
