@@ -25,10 +25,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/nettbutikk.bunnpris.no.ico",
     "slug": "nettbutikk-bunnpris-no",
     "status": "down",
-    "uptime": "99.81%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptime": "99.80%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.99%",
     "time": 1040,
     "timeDay": 889,
@@ -36,7 +36,7 @@
     "timeMonth": 1143,
     "timeYear": 1051,
     "dailyMinutesDown": {
-      "2023-12-23": 0,
+      "2023-12-23": 25,
       "2023-08-15": 16,
       "2023-06-27": 22
     }
@@ -58,7 +58,7 @@
     "timeMonth": 0,
     "timeYear": 1287,
     "dailyMinutesDown": {
-      "2023-12-23": 31,
+      "2023-12-23": 55,
       "2023-12-22": 1440,
       "2023-12-21": 1440,
       "2023-12-20": 1440,
