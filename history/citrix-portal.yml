@@ -1,7 +1,7 @@
 url: https://$IKL_SECRET_CITRIX_PORTAL
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-05-18T17:43:48.985Z
+status: up
+code: 200
+responseTime: 1034
+lastUpdated: 2024-05-18T17:48:29.767Z
 startTime: 2022-02-10T17:48:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
