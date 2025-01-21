@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 1414,
     "dailyMinutesDown": {
-      "2025-01-21": 939,
+      "2025-01-21": 944,
       "2025-01-20": 1440,
       "2025-01-19": 1440,
       "2025-01-18": 1440,
@@ -332,19 +332,19 @@
     "url": "https://nettbutikk.bunnpris.no",
     "icon": "https://icons.duckduckgo.com/ip3/nettbutikk.bunnpris.no.ico",
     "slug": "nettbutikk-bunnpris-no",
-    "status": "down",
+    "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.67%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 1210,
-    "timeDay": 13215,
-    "timeWeek": 3865,
-    "timeMonth": 2015,
+    "time": 1211,
+    "timeDay": 9193,
+    "timeWeek": 3563,
+    "timeMonth": 1988,
     "timeYear": 1217,
     "dailyMinutesDown": {
-      "2025-01-21": 0
+      "2025-01-21": 5
     }
   },
   {
@@ -466,7 +466,7 @@
     "timeMonth": 0,
     "timeYear": 672,
     "dailyMinutesDown": {
-      "2025-01-21": 939,
+      "2025-01-21": 944,
       "2025-01-20": 1440,
       "2025-01-19": 1440,
       "2025-01-18": 1440,
