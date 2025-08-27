@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/bunnpris.no.ico",
     "slug": "bunnpris-no",
     "status": "down",
-    "uptime": "59.39%",
+    "uptime": "59.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-26": 1389,
+      "2025-08-27": 80,
+      "2025-08-26": 1440,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
@@ -379,8 +380,7 @@
       "2024-08-31": 1440,
       "2024-08-30": 1440,
       "2024-08-29": 1440,
-      "2024-08-28": 1440,
-      "2024-08-27": 1440
+      "2024-08-28": 1440
     }
   },
   {
@@ -394,11 +394,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1162,
-    "timeDay": 738,
-    "timeWeek": 888,
-    "timeMonth": 892,
-    "timeYear": 1220,
+    "time": 1163,
+    "timeDay": 1183,
+    "timeWeek": 871,
+    "timeMonth": 903,
+    "timeYear": 1221,
     "dailyMinutesDown": {
       "2025-05-15": 21,
       "2025-04-09": 36,
@@ -411,18 +411,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/$ikl_secret_citrix_portal.ico",
     "slug": "citrix-portal",
     "status": "up",
-    "uptime": "73.52%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptime": "73.53%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1429,
-    "timeDay": 1386,
-    "timeWeek": 1412,
-    "timeMonth": 1412,
-    "timeYear": 1445,
+    "timeDay": 1750,
+    "timeWeek": 1409,
+    "timeMonth": 1434,
+    "timeYear": 1446,
     "dailyMinutesDown": {
-      "2025-08-26": 12,
       "2025-05-15": 20,
       "2025-04-09": 36,
       "2024-09-09": 36
@@ -439,11 +438,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 639,
-    "timeDay": 743,
-    "timeWeek": 644,
-    "timeMonth": 639,
-    "timeYear": 634,
+    "time": 640,
+    "timeDay": 867,
+    "timeWeek": 659,
+    "timeMonth": 652,
+    "timeYear": 635,
     "dailyMinutesDown": {
       "2025-06-07": 19,
       "2025-01-07": 18,
@@ -468,7 +467,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-26": 1389,
+      "2025-08-27": 80,
+      "2025-08-26": 1440,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
@@ -831,8 +831,7 @@
       "2024-08-31": 1440,
       "2024-08-30": 1440,
       "2024-08-29": 1440,
-      "2024-08-28": 1440,
-      "2024-08-27": 1440
+      "2024-08-28": 1440
     }
   }
 ]
