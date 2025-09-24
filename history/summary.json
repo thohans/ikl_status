@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/bunnpris.no.ico",
     "slug": "bunnpris-no",
     "status": "down",
-    "uptime": "58.17%",
+    "uptime": "58.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-23": 77,
+      "2025-09-24": 78,
+      "2025-09-23": 1440,
       "2025-09-22": 1440,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
@@ -379,8 +380,7 @@
       "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
-      "2024-09-25": 1440,
-      "2024-09-24": 1440
+      "2024-09-25": 1440
     }
   },
   {
@@ -394,11 +394,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
-    "time": 1180,
-    "timeDay": 910,
-    "timeWeek": 968,
-    "timeMonth": 1130,
-    "timeYear": 1163,
+    "time": 1181,
+    "timeDay": 1174,
+    "timeWeek": 1047,
+    "timeMonth": 1144,
+    "timeYear": 1164,
     "dailyMinutesDown": {
       "2025-08-29": 28,
       "2025-05-15": 21,
@@ -412,16 +412,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/$ikl_secret_citrix_portal.ico",
     "slug": "citrix-portal",
     "status": "up",
-    "uptime": "74.07%",
+    "uptime": "74.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
-    "time": 1445,
-    "timeDay": 1264,
-    "timeWeek": 1482,
-    "timeMonth": 1488,
-    "timeYear": 1441,
+    "time": 1446,
+    "timeDay": 1580,
+    "timeWeek": 1520,
+    "timeMonth": 1501,
+    "timeYear": 1442,
     "dailyMinutesDown": {
       "2025-08-29": 28,
       "2025-05-15": 20,
@@ -440,10 +440,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 648,
-    "timeDay": 675,
-    "timeWeek": 750,
-    "timeMonth": 808,
-    "timeYear": 649,
+    "timeDay": 697,
+    "timeWeek": 759,
+    "timeMonth": 812,
+    "timeYear": 650,
     "dailyMinutesDown": {
       "2025-06-07": 19,
       "2025-01-07": 18,
@@ -457,7 +457,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/$ikl_secret_domain.ico",
     "slug": "status-hosting-partner",
     "status": "down",
-    "uptime": "58.16%",
+    "uptime": "58.12%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -468,7 +468,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-23": 77,
+      "2025-09-24": 78,
+      "2025-09-23": 1440,
       "2025-09-22": 1440,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
@@ -831,8 +832,7 @@
       "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
-      "2024-09-25": 1440,
-      "2024-09-24": 1440
+      "2024-09-25": 1440
     }
   }
 ]
