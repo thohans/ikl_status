@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/bunnpris.no.ico",
     "slug": "bunnpris-no",
     "status": "down",
-    "uptime": "55.41%",
+    "uptime": "55.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-27": 1106,
+      "2025-11-28": 82,
+      "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
@@ -379,8 +380,7 @@
       "2024-12-02": 1440,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
-      "2024-11-29": 1440,
-      "2024-11-28": 1440
+      "2024-11-29": 1440
     }
   },
   {
@@ -395,10 +395,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1185,
-    "timeDay": 1351,
-    "timeWeek": 1047,
-    "timeMonth": 1051,
-    "timeYear": 1107,
+    "timeDay": 716,
+    "timeWeek": 1002,
+    "timeMonth": 1046,
+    "timeYear": 1106,
     "dailyMinutesDown": {
       "2025-08-29": 28,
       "2025-05-15": 21,
@@ -412,15 +412,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/$ikl_secret_citrix_portal.ico",
     "slug": "citrix-portal",
     "status": "up",
-    "uptime": "75.29%",
+    "uptime": "75.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 1470,
-    "timeDay": 1774,
-    "timeWeek": 1492,
-    "timeMonth": 1526,
+    "timeDay": 1400,
+    "timeWeek": 1432,
+    "timeMonth": 1529,
     "timeYear": 1442,
     "dailyMinutesDown": {
       "2025-11-14": 22,
@@ -440,10 +440,10 @@
     "uptimeWeek": "99.74%",
     "uptimeMonth": "97.44%",
     "uptimeYear": "99.78%",
-    "time": 660,
-    "timeDay": 884,
-    "timeWeek": 742,
-    "timeMonth": 730,
+    "time": 659,
+    "timeDay": 587,
+    "timeWeek": 701,
+    "timeMonth": 721,
     "timeYear": 667,
     "dailyMinutesDown": {
       "2025-11-27": 26,
@@ -462,7 +462,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/$ikl_secret_domain.ico",
     "slug": "status-hosting-partner",
     "status": "down",
-    "uptime": "55.40%",
+    "uptime": "55.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -473,7 +473,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-27": 1106,
+      "2025-11-28": 82,
+      "2025-11-27": 1440,
       "2025-11-26": 1440,
       "2025-11-25": 1440,
       "2025-11-24": 1440,
@@ -836,8 +837,7 @@
       "2024-12-02": 1440,
       "2024-12-01": 1440,
       "2024-11-30": 1440,
-      "2024-11-29": 1440,
-      "2024-11-28": 1440
+      "2024-11-29": 1440
     }
   }
 ]
