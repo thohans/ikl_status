@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/bunnpris.no.ico",
     "slug": "bunnpris-no",
     "status": "down",
-    "uptime": "54.66%",
+    "uptime": "54.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-16": 1080,
+      "2025-12-17": 85,
+      "2025-12-16": 1440,
       "2025-12-15": 1440,
       "2025-12-14": 1440,
       "2025-12-13": 1440,
@@ -379,8 +380,7 @@
       "2024-12-21": 1440,
       "2024-12-20": 1440,
       "2024-12-19": 1440,
-      "2024-12-18": 1440,
-      "2024-12-17": 1440
+      "2024-12-18": 1440
     }
   },
   {
@@ -390,17 +390,16 @@
     "slug": "nettbutikk-bunnpris-no",
     "status": "up",
     "uptime": "99.90%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1187,
-    "timeDay": 767,
-    "timeWeek": 936,
-    "timeMonth": 1018,
+    "timeDay": 1001,
+    "timeWeek": 969,
+    "timeMonth": 1016,
     "timeYear": 1107,
     "dailyMinutesDown": {
-      "2025-12-16": 5,
       "2025-08-29": 28,
       "2025-05-15": 21,
       "2025-04-09": 36,
@@ -419,9 +418,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1471,
-    "timeDay": 1271,
-    "timeWeek": 1577,
-    "timeMonth": 1578,
+    "timeDay": 1740,
+    "timeWeek": 1615,
+    "timeMonth": 1576,
     "timeYear": 1446,
     "dailyMinutesDown": {
       "2025-11-14": 22,
@@ -442,10 +441,10 @@
     "uptimeMonth": "97.93%",
     "uptimeYear": "99.78%",
     "time": 663,
-    "timeDay": 546,
-    "timeWeek": 750,
+    "timeDay": 828,
+    "timeWeek": 757,
     "timeMonth": 754,
-    "timeYear": 672,
+    "timeYear": 673,
     "dailyMinutesDown": {
       "2025-11-27": 26,
       "2025-11-20": 617,
@@ -463,7 +462,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/$ikl_secret_domain.ico",
     "slug": "status-hosting-partner",
     "status": "down",
-    "uptime": "54.66%",
+    "uptime": "54.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -474,7 +473,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-16": 1080,
+      "2025-12-17": 85,
+      "2025-12-16": 1440,
       "2025-12-15": 1440,
       "2025-12-14": 1440,
       "2025-12-13": 1440,
@@ -837,8 +837,7 @@
       "2024-12-21": 1440,
       "2024-12-20": 1440,
       "2024-12-19": 1440,
-      "2024-12-18": 1440,
-      "2024-12-17": 1440
+      "2024-12-18": 1440
     }
   }
 ]
