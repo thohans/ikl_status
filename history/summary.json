@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/bunnpris.no.ico",
     "slug": "bunnpris-no",
     "status": "down",
-    "uptime": "52.84%",
+    "uptime": "52.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-03": 123,
+      "2026-02-04": 118,
+      "2026-02-03": 1440,
       "2026-02-02": 1440,
       "2026-02-01": 1440,
       "2026-01-31": 1440,
@@ -379,8 +380,7 @@
       "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
-      "2025-02-05": 1440,
-      "2025-02-04": 1440
+      "2025-02-05": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1124,
-    "timeDay": 845,
-    "timeWeek": 919,
-    "timeMonth": 976,
+    "timeDay": 877,
+    "timeWeek": 940,
+    "timeMonth": 967,
     "timeYear": 1021,
     "dailyMinutesDown": {
       "2025-08-29": 28,
@@ -412,16 +412,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/$ikl_secret_citrix_portal.ico",
     "slug": "citrix-portal",
     "status": "up",
-    "uptime": "76.44%",
+    "uptime": "76.46%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1473,
-    "timeDay": 1446,
-    "timeWeek": 1440,
-    "timeMonth": 1561,
-    "timeYear": 1461,
+    "timeDay": 1329,
+    "timeWeek": 1464,
+    "timeMonth": 1537,
+    "timeYear": 1462,
     "dailyMinutesDown": {
       "2025-11-14": 22,
       "2025-08-29": 28,
@@ -440,10 +440,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
-    "time": 676,
-    "timeDay": 807,
-    "timeWeek": 700,
-    "timeMonth": 746,
+    "time": 675,
+    "timeDay": 599,
+    "timeWeek": 709,
+    "timeMonth": 739,
     "timeYear": 688,
     "dailyMinutesDown": {
       "2025-11-27": 26,
@@ -461,7 +461,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/$ikl_secret_domain.ico",
     "slug": "status-hosting-partner",
     "status": "down",
-    "uptime": "52.84%",
+    "uptime": "52.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -472,7 +472,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-03": 123,
+      "2026-02-04": 118,
+      "2026-02-03": 1440,
       "2026-02-02": 1440,
       "2026-02-01": 1440,
       "2026-01-31": 1440,
@@ -835,8 +836,7 @@
       "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
-      "2025-02-05": 1440,
-      "2025-02-04": 1440
+      "2025-02-05": 1440
     }
   }
 ]
